@@ -1,2 +1,4 @@
-# README_ADARSHTYAGI_25BCY10215_digital-literacy
-DIGITAL LITERACY REPOSITERY NAMED AS README.
+In today's hyper-connected world, digital literacy is no longer optional—it's essential. Our project, Digital Literacy Initiative, bridges the gap between technology and everyday empowerment by equipping individuals with the skills to navigate, evaluate, and create in the digital realm. From discerning fake news and mastering online safety to harnessing tools like AI, coding basics, and data privacy, we demystify the digital landscape.
+We cover core pillars: Information Literacy (spotting misinformation and verifying sources), Digital Safety (cybersecurity, privacy protection, and safe online habits), Tech Proficiency (AI tools, and data visualization), and Ethical Creation (content generation, digital ethics, and responsible sharing).
+TASK3 GOOGLE FORM LINK IS PROVIDED BELOW.
+https://docs.google.com/forms/d/e/1FAIpQLScNCpRxp6Ob5DKEBHhBrQKwoPhoflwNY8M6NRrWwMhRmk-Nvw/viewform?usp=publish-editor
